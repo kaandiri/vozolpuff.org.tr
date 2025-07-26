@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /cgi-bin/
+
+Sitemap: https://vozolpuff.org.tr/sitemap.xml
+Sitemap: https://vozolpuff.org.tr/sitemap-products.xml
+Sitemap: https://vozolpuff.org.tr/sitemap-categories.xml 
